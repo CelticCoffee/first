@@ -1,0 +1,24 @@
+div {
+	background-color: SandyBrown;
+
+}
+.container {
+	vertical-align: right;
+	margin-left: 30%;	
+}
+img  {
+	width:  50%;
+	height: auto;
+	vertical-align: left;
+}
+
+.header  {
+	background-color:  LightBlue ;
+
+}
+
+.footer  {
+	background-color: LightBlue;
+	text-align: center;
+	font-size: 55%;
+}
