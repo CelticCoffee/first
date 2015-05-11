@@ -1,24 +1,60 @@
+/***********************
+GENERAL
+************************/
+
+body {
+	font-family: 'Delius', sans-serif;
+}
+
 div {
-	background-color: SandyBrown;
+	background-color: #F4A460; /*Color: Sandy Brown*/
 
 }
 .container {
 	vertical-align: right;
 	margin-left: 30%;	
+	padding: 10px;
 }
+
 img  {
-	width:  50%;
+	max-width:  50%;
 	height: auto;
 	vertical-align: left;
 }
 
-.header  {
-	background-color:  LightBlue ;
-
+a {
+	text-decoration: none;
 }
 
+
+/***********************
+HEADING
+************************/
+
+.header  {
+	background-color:  #ADD8E6; /*Color Light Blue*/
+	text-align: Left;
+	padding: .75em;
+}
+
+h1 {
+	font-family: 'Carter One', sans-serif;
+}
+
+h2 {
+	background-color:  #ADD8E6; /*Color Light Blue*/
+	text-align: Center;
+	padding: 10px;
+}
+
+
+
+/***********************
+FOOTER
+************************/
+
 .footer  {
-	background-color: LightBlue;
+	background-color: #ADD8E6; /*Color Light Blue*/
 	text-align: center;
 	font-size: 55%;
 }
